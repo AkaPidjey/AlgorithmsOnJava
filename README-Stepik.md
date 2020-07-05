@@ -18,4 +18,5 @@
 #### [Task11-->](https://github.com/AkaPidjey/AlgorithmsOnJava/commit/16f61ca6f5e0bf97f643e4f73cc0756303160cb0) Двоичный поиск.
 #### [Task12-->](https://github.com/AkaPidjey/AlgorithmsOnJava/commit/042248295766348b166daca1b8f84f0cd52ac1e7) Число инверсий.
 #### [Task13-->](https://github.com/AkaPidjey/AlgorithmsOnJava/commit/23a124ecb6a21665a1c99b9b1bb41ee3d5f4c86b) Сортировка подсчетом.         
-         
+#### Динамическое программирование:         
+#### [Task14-->](https://github.com/AkaPidjey/AlgorithmsOnJava/commit/36ba5be9954d9d6540767a0ad51c51bc161e3bb0) Наибольшая последовательнократная подпоследовательность. 
